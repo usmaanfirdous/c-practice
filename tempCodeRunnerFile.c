@@ -1,4 +1,4 @@
-for(; num>=1; num--) {
-//     printf("%d\n", (num*(num-1)));
+  int result = fib_recursive(n);
    
-// }
+
+//  printf("Fibonacci series: %d", result);
