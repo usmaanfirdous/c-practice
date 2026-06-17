@@ -24,11 +24,10 @@ int num;
 printf("Enter a number: ");
 scanf("%d", &num);
 
-for(; ; ) 
-{
-    printf("%d\n", factorial(num));
+// for(; num>=1; num--) {
+//     printf("%d\n", (num*(num-1)));
    
-}
+// }
 
 /// factorial of a number using recursive method
 
