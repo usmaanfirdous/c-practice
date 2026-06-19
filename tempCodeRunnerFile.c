@@ -1,4 +1,8 @@
-  int result = fib_recursive(n);
-   
+   // for(int i=1;i<=a;i++)
+    // {
+    //     for(int j=1;j<=i;j++){
 
-//  printf("Fibonacci series: %d", result);
+    //         printf("1");
+    //     }
+    //     printf("\n");
+    // }

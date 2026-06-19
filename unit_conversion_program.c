@@ -18,7 +18,7 @@ switch (choice)
     case 'q':
     {
         printf("quiting the program......\n");
-        goto end;
+        goto end;      
         break;
     }
     case '1':
